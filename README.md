@@ -20,7 +20,9 @@ data[-8:].add(1).cumprod().mul(100).normalize().iplot(kind='lines', theme='polar
 ```
 ## Author
 Martin Escobar
+
 LinkedIn: [mescobars](https://www.linkedin.com/in/mescobars/)
+
 Twitter: [@m_escobars](https://twitter.com/m_escobars)
 
 ## Contributing
